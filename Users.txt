@@ -1,0 +1,2 @@
+asingh|1234|admin
+jsmith|1234|user
